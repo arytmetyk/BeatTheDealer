@@ -2,7 +2,7 @@
 #include <ctime>
 #include <map>
 
-const int ALL_CARDS = 52;
+const int ALL_CARDS = 312;
 double fiveOfThreeteenProbability = (double) 5 / 13;
 double threeOfThreeteenProbability = (double) 3 / 13;
 
